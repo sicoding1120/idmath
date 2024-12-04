@@ -1,0 +1,10 @@
+{
+    "main": "./dist/aritmatika/index.js",
+    "module": "./dist/aritmatika/index.esm.js",
+    "type": "module",
+    "exports": {
+        "require": "./dist/aritmatika/index.js",
+        "import": "./dist/geometri/index.mjs"
+    },
+     "private": true
+}

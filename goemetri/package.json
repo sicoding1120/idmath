@@ -1,0 +1,10 @@
+{
+    "main": "./dist/geometri/index.js",
+    "module": "./dist/geometri/index.esm.js",
+    "type": "module",
+    "exports": {
+        "require": "./dist/geometri/index.js",
+        "import": "./dist/geometri/index.mjs"
+    },
+    "private": true
+}
